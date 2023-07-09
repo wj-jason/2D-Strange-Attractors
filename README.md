@@ -2,7 +2,7 @@
 
 Visualization of 2D strange attractors using C++ and SFML.
 
-## Implemented Attractors
+## Implemented Attractors + Examples
 ### Fractal Dream
 $x_0=y_0=0.1$
 
