@@ -8,7 +8,7 @@ $x_0=y_0=0.1$
 
 $a, b \in [-3,3]$
 
-$c, d \in [-0.5, 0.5]$
+$c, d \in [-0.5, 1.5]$
 
 $x_{n+1}= \sin(y_n\cdot b)+c\cdot \sin(x_n\cdot b)$
 
